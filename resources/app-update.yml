@@ -1,0 +1,7 @@
+provider: generic
+url: https://client-updates.badlion.net
+channel: latest
+useMultipleRangeRequest: false
+updaterCacheDirName: '@badlionnative-desktop-updater'
+publisherName:
+  - ESL Gaming Online, Inc.

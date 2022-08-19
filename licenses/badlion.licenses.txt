@@ -1,0 +1,55 @@
+ESL GAMING ONLINE, INC. (BADLION) CLIENT SOFTWARE LICENSE AGREEMENT
+
+PLEASE READ CAREFULLY
+
+The terms of this Software License Agreement (this "Agreement") shall apply to all versions, editions, and future updates of BADLION CLIENT software and constitute a legal agreement between you (the "Licensee") and ESL GAMING ONLINE, INC. (the "Licensor"). Access to and use of EGO websites or other services related to the BADLION CLIENT is governed by the EGO Terms of Use, located at https://www.badlion.net/tos.
+
+BY INSTALLING, ENABLING OR USING BADLION CLIENT SOFTWARE, THE LICENSEE IS CONSENTING TO BE BOUND BY AND IS BECOMING A PARTY TO THIS AGREEMENT AND THE EGO TERMS OF USE, WHICH ARE HEREBY INCORPORATED BY REFERENCE. IF LICENSEE DOES NOT AGREE TO ALL OF THE TERMS OF THIS AGREEMENT AND THE TERMS OF USE, ACCEPTANCE MUST NOT BE SPECIFIED BELOW AND LICENSEE MUST NOT INSTALL OR USE THE SOFTWARE.
+
+By accepting the terms of this Agreement, you consent to the collection, use and disclosure of your information as described in EGO's Privacy Policy, located at https://www.badlion.net/privacy.
+
+ESL GAMING ONLINE, INC. RESERVES ALL RIGHTS NOT SPECIFICALLY GRANTED HEREIN.
+
+License Grant:
+
+Licensor grants Licensee a non-exclusive and non-transferable license to use BADLION CLIENT software only for non-commercial entertainment purposes. Licensee may not disassemble, decompile, reverse engineer, redistribute (in any form), create derivative works of, or modify BADLION CLIENT software in any way. Licensor reserves the right to terminate the license at any time and for any reason, or no reason at all, and without notice to licensee. Additionally, upon breach of any term of this Agreement, the license granted under this Agreement shall automatically terminate without any additional notice to Licensee. Upon termination of the license, Licensee shall destroy all copies of BADLION CLIENT software in Licensee�s possession.
+
+Monitoring and Collection of Data:
+
+Licensee acknowledges and agrees that BADLION CLIENT software is self-updating, which means that future updates will, from time to time and without any notice, automatically be downloaded and installed as a normal and expected function of BADLION CLIENT software. BY INSTALLING THE BADLION CLIENT YOU CONSENT TO THE AUTOMATIC DOWNLOADING AND INSTALLATION OF BADLION CLIENT FILES AND UPDATES.
+
+Licensee further acknowledges and accepts that BADLION CLIENT software may be considered invasive. Licensee understands that BADLION CLIENT software inspects and reports information about the computer on which it is installed to other connected computers and Licensee agrees to allow BADLION CLIENT software to inspect and report such information about the computer on which Licensee installs BADLION CLIENT software. 
+
+Licensee understands and agrees that the information that may be inspected and reported by BADLION CLIENT software includes, but is not limited to, devices and any files residing on the hard-drive and in the memory of the computer on which BADLION CLIENT software is installed.  Further, Licensee consents to allow BADLION CLIENT software to transfer actual screenshots taken of Licensee�s computer during the operation of BADLION CLIENT software for possible publication. Licensee agrees that any harm or lack of privacy resulting from the installation and use of BADLION CLIENT software is not as valuable to Licensee as the potential ability to play interactive online games with the benefits afforded by using BADLION CLIENT software.
+
+BY INSTALLING THE BADLION CLIENT SOFTWARE YOU CONSENT TO THE INSPECTION, COLLECTION AND REPORTING OF SCREENSHOTS, SOFTWARE, DEVICE AND PROCESS INFORMATION REGARDING THE COMPUTER ON WHICH THE BADLION CLIENT IS INSTALLED.
+
+BY INSTALLING THE BADLION CLIENT YOU ACKNOWLEDGE AND AGREE THAT THE MONITORING, INSPECTING, COLLECTING AND REPORTING OF INFORMATION REGARDING YOUR COMPUTER AND ITS USE IS NECESSARY TO PROVIDING A CHEAT-FREE ENVIRONMENT FOR ALL BADLION CLIENT USERS. YOUR USE OF THE BADLION CLIENT INDICATES YOUR UNDERSTANDING AND ACCEPTANCE OF THE POTENTIAL INVASIVENESS OF THE BADLION CLIENT AND ITS MONITORING, INSPECTION, AND REPORTING FUNCTIONALITY. 
+
+For more information on data collection, use and disclosure, refer to the EGO Privacy Policy, available at https://www.badlion.net/privacy.
+
+Export Restrictions:
+
+Licensee agrees not to export or re-export into any country subject to U.S. trade sanctions or to which the U.S. has embargoed goods or to any nationals or residents of such countries unless such nationals are permanent residents of a country that is not subject either to such sanctions or embargoed goods. LICENSEE AGREES NOT TO DOWNLOAD, INSTALL, OR USE BADLION CLIENT SOFTWARE IN A COUNTRY OR LOCALE WHERE SUCH ACTION WOULD VIOLATE ANY LAW OR ORDINANCE. 
+
+Disclaimer of Warranties:
+
+The BADLION CLIENT IS PROVIDED "AS-IS" AND EGO DISCLAIMS ANY AND ALL REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. EGO CANNOT GUARANTEE AND DOES NOT PROMISE ANY SPECIFIC RESULTS FROM USE OF THE BADLION CLIENT. EGO DOES NOT REPRESENT OR WARRANT THAT THE BADLION CLIENT OR ANY PART THEREOF IS ACCURATE, COMPLETE, RELIABLE, CURRENT OR ERROR-FREE OR THAT THE BADLION CLIENT FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. THEREFORE, YOU SHOULD EXERCISE CAUTION IN THE USE AND DOWNLOADING OF ANY SUCH CONTENT OR MATERIALS AND USE INDUSTRY-RECOGNIZED SOFTWARE TO DETECT AND DISINFECT VIRUSES.
+
+Limitation of Liability:
+
+LICENSEE AGREES THAT NEITHER ESL GAMING ONLINE, INC., ITS OFFICERS, DIRECTORS, SHAREHOLDERS, EMPLOYEES, CONTRACTORS, LICENSORS, BUSINESS PARTNERS, SUCCESSORS NOR ASSIGNS SHALL BE LIABLE FOR ANY CLAIM WHATSOEVER INVOLVING BADLION CLIENT SOFTWARE IN ANY WAY. FURTHERMORE, SHOULD ANY VERSION OF BADLION CLIENT SOFTWARE, INCLUDING FUTURE VERSIONS, PROVE DEFECTIVE IN ANY WAY, LICENSEE ASSUMES THE ENTIRE COST, IF ANY, OF LOSS OR DAMAGE OF ANY TYPE AND TO ANY DEGREE. THIS WARRANTY DISCLAIMER SHALL SURVIVE TERMINATION OF THE LICENSE OF BADLION CLIENT SOFTWARE BY LICENSEE, REGARDLESS OF WHETHER THE LICENSE IS TERMINATED BY ESL GAMING ONLINE, INC. OR LICENSEE.
+
+Arbitration and Dispute Resolution:
+
+YOU AGREE THAT THE SOLE AND EXCLUSIVE FORUM AND REMEDY FOR ANY AND ALL DISPUTES AND CLAIMS RELATING IN ANY WAY TO OR ARISING OUT OF THIS AGREEMENT OR YOUR USE OF THE BADLION CLIENT SHALL BE FINAL AND BINDING ARBITRATION.  Arbitration proceedings shall be administered by the American Arbitration Association in accordance with its Commercial Arbitration Rules in New York, New York, except that, to the extent that either party has in any manner infringed upon or violated or threatened to infringe upon or violate the other party's patent, copyright, trademark or trade secret rights, such other party may seek injunctive or other appropriate relief in any state or federal court in the State of New York and you consent to exclusive jurisdiction and venue in such courts.  If costs related to such arbitration are determined to be excessive in a consumer dispute, EGO will be responsible for paying all arbitration fees and arbitrator compensation in excess of what is deemed reasonable. The arbitrator's award shall be binding and may be entered as a judgment in any court of competent jurisdiction
+
+To the fullest extent permitted by applicable law, NO ARBITRATION OR CLAIM UNDER THIS AGREEMENT SHALL BE JOINED TO ANY OTHER ARBITRATION OR CLAIM, INCLUDING ANY ARBITRATION OR CLAIM INVOLVING ANY OTHER CURRENT OR FORMER USER OF THE BADLION CLIENT, AND NO CLASS ARBITRATION PROCEEDINGS SHALL BE PERMITTED. In no event shall any claim, action or proceeding by you related in any way to the BADLION CLIENT be instituted more than three (3) years after the cause of action arose.
+
+Indemnification:
+
+You agree to defend, indemnify and hold harmless EGO, EGO affiliated companies and their respective directors, officers, employees, agents, assignees and licensees from and against all claims and expenses, including attorneys' fees, resulting from (i) any breach of these Terms of Use or your negligent and wrongful conduct; (ii) your use and access of the Services, including the posting of any content on the Services by you; and (iii) violation by you of any applicable law, rule or regulation.
+
+Miscellaneous:
+
+This Software License Agreement constitutes the entire agreement of the parties with respect to the subject matter. The provisions of this Software License Agreement will be deemed severable, and the unenforceability of any one or more provisions will not affect the enforceability of any other provisions. In addition, if any provision of this Software License Agreement, for any reason, is declared to be unenforceable, the parties will substitute an enforceable provision that, to the maximum extent possible under applicable law, preserves the intentions of the original provision. This Software License Agreement shall be construed in accordance with and governed by the applicable laws of the State of New York and applicable United States federal law. Exclusive venue for all litigation regarding this Agreement shall be in Suffolk County, New York. Licensee agrees that any portion of this Agreement found to be invalid or unenforceable shall be modified, to the extent allowed by law, so as to allow for the enforcement of the original intended meaning of the portion found to be invalid or unenforceable.
