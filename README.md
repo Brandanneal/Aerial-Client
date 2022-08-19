@@ -1,6 +1,8 @@
 # Aerial-Client
 Aerial Client, the most complete all-in-one mod library for Minecraft
 
+got tested this client and its so GOOD
+
 At the moment, with the support of users of the Hypixel license server, we are giving rank upgrade. You can invite your friend /girlfriend / acquaintance who has an account on hypixel to install this player client and enter your game nickname. After 5 invited players, our game bot will automatically increase your game rank by 1, for example:
 [ DEFAULT ] - > [ VIP ]
 [ VIP ] - > [ VIP+ ]
